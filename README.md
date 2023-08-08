@@ -25,7 +25,7 @@ This application uses the dotenv to use enviroment variables, which requires a .
     
 ## Usage
     
-![alt text](assets/images/video Link)
+[Video Tutorial]([assets/images/video Link](https://drive.google.com/file/d/17H4it0rgaEMvoI32AzHZhKgQPHkRsyNr/view))
     
 ## Credits
     
